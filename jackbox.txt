@@ -1523,7 +1523,7 @@ mattu82 	6545
 zexilioncole	3555
 connor_indig	3030
 wrhiv72 	3025
-Survey Scramble - Hilo
+The Jackbox Survey Scramble - Hilo
 2:12:36 2:20:37
 starlightem1	43000
 wrhiv72 	29750
@@ -1534,7 +1534,7 @@ lisforluigi	18250
 buzzfb  	17250
 kjc_89_kjc	17000
 brinasty90	3500
-Survey Scramble - Speed
+The Jackbox Survey Scramble - Speed
 2:20:47 2:29:48
 connor_indig	107000
 starlightem1	107000
@@ -1545,7 +1545,7 @@ kjc_89_kjc	57000
 lisforluigi	48000
 brinasty90	17000
 dongsnot	0
-Survey Scramble - Squares
+The Jackbox Survey Scramble - Squares
 2:29:56 2:38:19
 dongsnot	1
 lisforluigi	1
@@ -1556,7 +1556,7 @@ connor_indig	0
 wrhiv72 	0
 mattu82 	0
 brinasty90	0
-Survey Scramble - Bounce
+The Jackbox Survey Scramble - Bounce
 2:38:30 2:44:04
 mattu82 	1
 lisforluigi	1
@@ -1567,7 +1567,7 @@ connor_indig	0
 buzzfb  	0
 wrhiv72 	0
 brinasty90	0
-Survey Scramble - Dares
+The Jackbox Survey Scramble - Dares
 2:44:12 2:56:04
 buzzfb  	4250
 mattu82 	3000
@@ -1578,7 +1578,7 @@ brinasty90	2000
 lisforluigi	1250
 starlightem1	0
 dongsnot	0
-Survey Scramble - Dash
+The Jackbox Survey Scramble - Dash
 2:56:10 3:03:14
 lisforluigi	1
 wrhiv72 	2
