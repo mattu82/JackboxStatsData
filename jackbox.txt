@@ -1,6 +1,6 @@
 Format:
 
-Each video must have the line
+Archive each night's video video with the line
 [youtube or twitch link][space or tab][date of vid yyyyMMdd][space or tab][start time of vid HH:mm:ss]
 
 The start time of a youtube video may be found by viewing the html source and searching for startdate. Adjust this to EST.
@@ -11,13 +11,24 @@ Follow with a list of each game played during the video using
 [start timestamp h:mm:ss][space or tab][end timestamp h:mm:ss]
 [player][tab][score][tab][w]
 
-Notes: If Game title is not given, a repeat of the last game is assumed
+Notes: 
+If Game title is not given, a repeat of the last game is assumed
+
 Typically a game starts when the "1" is shown in the countdown
 and ends when a winner splash screen is displayed.
+
 A winner only needs to be denoted in games where high score does not necessarily win
 (Ex. Trivia Murder Party 2 , The Wheel of Enormous Proportions)
+or to distinguish a winner between tied hi scores
+(Ex. Fakin' It All Night Long, Role Models)
+
+For team games, positive scores are a win and 0 or negative is a loss
+For Push the Button I give an extra point for surviving aliens,
+and an extra negative point for voted out humans,
+but this data is not reflected anywhere on the website (yet).
 
 Only data between --START-- and --END-- will be read
+
 --START--
 https://www.youtube.com/watch?v=SF-bI6Z7OTE	20241231	22:08:51
 Fakin' It All Night Long
@@ -1429,4 +1440,49 @@ bustatheanar	7000
 xxostianmatt	6434
 azrael_the_a	5703
 lisforluigi	3903
+https://www.youtube.com/watch?v=4z04d9I_IQg	20250128	01:28:16
+Blather 'Round
+10:26	24:31
+zak_zakaryas	8138
+lisforluigi	4000
+giddygiraffe	5251
+kaylaaa_rose	4001
+linkylove_	7414
+sandtyger	5825
+30:33	45:33
+lisforluigi	4438
+wrhiv72 	4514
+zak_zakaryas	7739
+linkylove_	8975
+kaylaaa_rose	4538
+lquick77	2939
+48:54	1:04:30
+theyluvaimee	4738
+kaylaaa_rose	1800
+zak_zakaryas	5564
+rozen_spark	7300
+linkylove_	7325
+lquick77	1650
+Role Models
+1:15:09	1:38:16
+wrhiv72 	21
+starlightem1	27
+rysso2  	16
+lisforluigi	24
+theyluvaimee	18
+ninja_god767	21
+1:44:35	2:06:28
+starlightem1	13
+bo_gu   	26
+wrhiv72 	22
+theyluvaimee	16
+ninja_god767	20
+worldofmarz	26	w
+2:10:39	2:30:49
+worldofmarz	10
+cookiejarpot	23
+lisforluigi	21
+wrhiv72 	19
+ninja_god767	22
+starlightem1	19
 --END--
