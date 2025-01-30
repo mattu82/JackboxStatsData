@@ -1,6 +1,6 @@
 Format:
 
-Archive each night's video video with the line
+Archive each night's stream with the line
 [youtube or twitch link][space or tab][date of vid yyyyMMdd][space or tab][start time of vid HH:mm:ss]
 
 The start time of a youtube video may be found by viewing the html source and searching for startdate. Adjust this to EST.
@@ -12,7 +12,11 @@ Follow with a list of each game played during the video using
 [player][tab][score][tab][w]
 
 Notes: 
-If Game title is not given, a repeat of the last game is assumed
+Game title must match the complete game title given on jackboxgames.com
+
+If Game title is not given, a repeat of the last game played will be used
+
+If a game is incomplete, mark with " I" after the end timestamp
 
 Typically a game starts when the "1" is shown in the countdown
 and ends when a winner splash screen is displayed.
@@ -71,7 +75,7 @@ missmac87	00220
 giddygiraffe	00760
 bain6969	00140
 zak_zakaryas	00690
-jacoyous2009	00600
+jacoyus2009	00600
 connorcreid	00740
 missmac87	01910
 lisforluigi	00320
@@ -89,16 +93,16 @@ lachlan_davi	02000
 giddygiraffe	07686
 zak_zakaryas	29662
 mattu82 	27710
-jacoyous2009	12520
+jacoyus2009	12520
 lisforluigi	09420
-oatymilkgala	26975	w
+oatymilkgalaxy	26975	w
 1:22:04 1:43:50
 zak_zakaryas	28608	w
 mattu82 	11937
 cthuskyman	13357
 lisforluigi	09122
 edthedimmwit	19794
-oatymilkgala	20926
+oatymilkgalaxy	20926
 flaretale52	07142
 thedigiworld	10722
 1:50:24 2:16:15
@@ -112,7 +116,7 @@ urbanlegend1	09569
 mollypokeher	11730
 Drawful Animate
 2:24:43 2:55:06
-oatymilkgala	10585
+oatymilkgalaxy	10585
 mallypokeher	04545
 edthedimmwit	01550
 lisforluigi	07565
@@ -132,12 +136,12 @@ https://www.youtube.com/watch?v=-MA2bjqZd4I	20250104	23:42:47
 Trivia Murder Party 2
 19:44 40:10
 giddygiraffe	06149
-crookedbanan	06600
+crookedbananaface	06600
 lisforluigi	07600
 lil_monkey67	05600
 rainymaiden	04510
 julzjustjulz	07000
-starlightem1	05950	w
+starlightem18	05950	w
 superduperbo	06466
 44:49 1:02:14
 pandaanoms	01300
@@ -149,32 +153,32 @@ lisforluigi	06700
 oyelloo 	02200
 le_rose0	01200
 1:05:22 1:21:20
-gingersnap66	04678
+gingersnap667	04678
 zak_zakaryas	06500	w
 urbanlegend1	01000
 mattu82 	05600
 superduperbo	02822
 lisforluigi	07600
 le_rose0	03100
-starlightem1	02500
+starlightem18	02500
 Job Job
 1:30:45 2:00:01
 pandaanoms	50150
-gingersnap66	55850
+gingersnap667	55850
 mattu82 	55050
 lisforluigi	31700
 myapeachybea	46300
-starlightem1	33650
-crookedbanan	37050
+starlightem18	33650
+crookedbananaface	37050
 superduperbo	21200
 dwaybles	38450
 itsnear2	62650
 2:08:15 2:38:15
 itsnear2	52150
 mattu82 	49500
-starlightem1	49650
+starlightem18	49650
 gmlmusic	40200
-crookedbanan	49450
+crookedbananaface	49450
 exhausted_hq	28650
 lil_monkey67	38050
 lisforluigi	35350
@@ -184,8 +188,8 @@ https://www.youtube.com/watch?v=8arLnJ4CCzk 20250106	20:54:50
 Civic Doodle
 2:36:49 3:05:47
 giddygiraffe	02229
-crookedbanan	01863
-starlightem1	01472
+crookedbananaface	01863
+starlightem18	01472
 lisforluigi	02097
 jahinnaa	02182
 mattu82 	02895
@@ -193,7 +197,7 @@ shown_x8 	00941
 goffic  	00800
 3:11:27 3:35:55
 giddygiraffe	02054
-starlightem1	01621
+starlightem18	01621
 shown_x8	01695
 chaotik_lord	01905
 lisforluigi	00887
@@ -207,14 +211,14 @@ le_rose0	26125
 rns_aurelius	26000
 synthwave127	23500
 flaretale52	22000
-starlightem1	21500
+starlightem18	21500
 lisforluigi	19250
 chaotik_lord	14000
 goffic  	13125
 itsgman78122	08000
 The Jackbox Survey Scramble - Speed
 3:55:35 4:02:18
-starlightem1	95000
+starlightem18	95000
 mattu82 	79000
 le_rose0	73000
 chaotik_lord	58000
@@ -232,7 +236,7 @@ mattu82 	1
 itsgman78122	1
 rns_aurelius	1
 synthwave127	1
-starlightem1	0
+starlightem18	0
 goffic  	0
 flaretale52	0
 chaotik_lord	0
@@ -244,7 +248,7 @@ chaotik_lord	1
 rns_aurelius	1
 synthwave127	1
 mattu82 	0
-starlightem1	0
+starlightem18	0
 lisforluigi	0
 goffic  	0
 flaretale52	0
@@ -257,7 +261,7 @@ rns_aurelius	003000
 synthwave127	002500
 mattu82 	002500
 goffic  	002500
-starlightem1	002000
+starlightem18	002000
 itsgman78122	001000
 flaretale52	001000
 The Jackbox Survey Scramble - Dash
@@ -266,7 +270,7 @@ mattu82 	1
 chaotik_lord	2
 flaretale52	3
 synthwave127	4
-starlightem1	5
+starlightem18	5
 lisforluigi	6
 le_rose0	7
 itsgman78122	8
@@ -275,11 +279,11 @@ rns_aurelius	10
 The Jackbox Survey Scramble - Hilo
 4:35:30 4:43:07
 synthwave127	28750
-starlightem1	19875
+starlightem18	19875
 flaretale52	18000
 tillietally	17500
 atxesports	16750
-th3gr3atg00b	16583
+th3gr3atg00b3r	16583
 mattu82 	14083
 fn8up79 	13500
 chaotik_lord	12750
@@ -289,23 +293,23 @@ The Jackbox Survey Scramble - Speed
 chaotik_lord	58000
 fn8up79 	38000
 atxesports	27000
-starlightem1	26000
+starlightem18	26000
 synthwave127	24000
 tillietally	21000
 flaretale52	21000
 mattu82 	18000
-th3gr3atg00b	16000
+th3gr3atg00b3r	16000
 lisforluigi	16000
 The Jackbox Survey Scramble - Squares
 4:48:49 4:51:58
 lisforluigi	1
 fn8up79 	1
-th3gr3atg00b	1
+th3gr3atg00b3r	1
 atxesports	1
 tillietally	1
 synthwave127	0
 chaotik_lord	0
-starlightem1	0
+starlightem18	0
 mattu82 	0
 flaretale52	0
 The Jackbox Survey Scramble - Bounce
@@ -313,31 +317,31 @@ The Jackbox Survey Scramble - Bounce
 fn8up79 	1
 flaretale52	1
 atxesports	1
-th3gr3atg00b	1
+th3gr3atg00b3r	1
 tillietally	1
 lisforluigi	1
 synthwave127	1
 chaotik_lord	0
-starlightem1	0
+starlightem18	0
 mattu82 	0
 The Jackbox Survey Scramble - Dares
 4:57:44 5:10:56
 chaotik_lord	04500
 mattu82 	04000
 synthwave127	03250
-th3gr3atg00b	03000
+th3gr3atg00b3r	03000
 lisforluigi	03000
 fn8up79 	02750
-starlightem1	02750
+starlightem18	02750
 flaretale52	02500
 tillietally	00250
 atxesports	00000
 The Jackbox Survey Scramble - Dash
 5:11:01 5:16:23
-starlightem1	1
+starlightem18	1
 fn8up79 	2
 synthwave127	3
-th3gr3atg00b	4
+th3gr3atg00b3r	4
 mattu82 	5
 lisforluigi	6
 chaotik_lord	7
@@ -347,7 +351,7 @@ atxesports	10
 https://www.youtube.com/watch?v=BYemMjI3PXU 20250107	20:45:26
 Job Job
 2:53:01 3:24:05
-starlightem1	64350
+starlightem18	64350
 gmlmusic	60950
 mimitoze	49650
 itsnear2	48150
@@ -375,16 +379,16 @@ fluffyfucshi	00990
 connorcreid	00973
 bo_gu   	00680
 giddygiraffe	00650
-jacoyous2009	00460
+jacoyus2009	00460
 mattu82 	00403
 lisforluigi	00367
 4:37:15 4:56:46
 captpan6	01280
 cosmicjonny_	00820
-gingersnap66	00730
+gingersnap667	00730
 kaidraman	00710
 hazelazazelz	00650
-starlightem1	00520
+starlightem18	00520
 rozen_spark	00520
 giddygiraffe	00230
 https://www.youtube.com/watch?v=xYYzFjnW_xQ 20250108	20:41:42
@@ -392,13 +396,13 @@ Champ'd Up
 3:02:06 3:26:04
 itsnear2	32600
 therealtatsu	29690
-gingersnap66	28570
-starlightem1	18570
+gingersnap667	28570
+starlightem18	18570
 mattu82 	16930
 giddygiraffe	16900
 3:28:58 3:56:15
 itsnear2	39740
-th3gr3atg00b	37650
+th3gr3atg00b3r	37650
 mattu82 	25910
 molly_croche	25830
 therealtatsu	22530
@@ -428,22 +432,21 @@ https://www.youtube.com/watch?v=mqk3139SSMQ 20250109	22:30:17
 Trivia Murder Party 2
 18:29 37:35
 giddygiraffe	03575
-speeddemonst	03250
+speeddemonstar	03250
 mattu82 	03850
 raineb4thesu	03325
-starlightem1	05850	w
+starlightem18	05850	w
 lisforluigi	06075
 jamballam	03750
 43:42 1:03:41
 mattu82 	05600
 shown_x8	02000
-speeddemonst	07100
+speeddemonstar	07100
 grandpagrump	06000
 watcherdogs	03500
 linkylove_	10000
 lovatt9545	04700
 lisforluigi	08500
-audience	05670	w
 1:09:13 1:26:37
 julzjustjulz	08300
 shown_x8	00500
@@ -461,21 +464,21 @@ lovatt9545	00907
 jamballam	00880
 linkylove_	00630
 giddygiraffe	00547
-starlightem1	00410
+starlightem18	00410
 pan_grzesiek	00283
 1:58:54 2:18:53
 pan_grzesiek	01020
 captpan6	00860
 mattu82 	00850
 lisforluigi	00730
-speeddemonst	00690
+speeddemonstar	00690
 gmlmusic	00680
 shown_x8	00550
 giddygiraffe	00200
 Fakin' It All Night Long
 2:33:56 2:55:27
-jacoyous2009	00330
-gingersnap66	00460
+jacoyus2009	00330
+gingersnap667	00460
 pan_grzesiek	00210
 grandpagrump	00335
 lovatt9545	00210
@@ -483,8 +486,8 @@ lisforluigi	00835
 sebastian201	00485
 mimitoze	00330
 3:04:31 3:34:37
-gingersnap66	00580
-starlightem1	00930
+gingersnap667	00580
+starlightem18	00930
 calsryn 	00000
 hipstersstol	00575
 lisforluigi	00430
@@ -498,7 +501,7 @@ giddygiraffe	11642
 lisforluigi	12082
 zak_zakaryas	30113
 mattu82 	21432
-th3gr3atg00b	20638
+th3gr3atg00b3r	20638
 pandaanoms	21669	w
 shown_x8	11240
 starri_dayze	09757
@@ -523,9 +526,9 @@ shown_x8	10417
 Drawful Animate
 1:50:11 2:18:37
 mattu82 	13545
-oatymilkgala	11600
+oatymilkgalaxy	11600
 julzjustjulz	10560
-gingersnap66	07110
+gingersnap667	07110
 chaotik_lord	07035
 lisforluigi	05580
 molly_croche	05050
@@ -535,7 +538,7 @@ caisryn 	01055
 2:30:14 2:50:04
 lisforluigi	08035
 mattu82 	08030
-oatymilkgala	06545
+oatymilkgalaxy	06545
 synthwave127	05525
 chaotik_lord	03525
 grandpagrump	03025
@@ -552,7 +555,7 @@ dklovesvegas	02600
 pandaanoms	07300	w
 ebenfox 	04414
 47:48 1:04:13 I
-gingersnap66	0
+gingersnap667	0
 zak_zakaryas	0
 rns_aurelius	0
 mattu82 	0
@@ -563,7 +566,7 @@ callumgray35	0
 1:08:01 1:26:27
 mattu82 	05000
 zak_zakaryas	09500	w
-gingersnap66	01100
+gingersnap667	01100
 lisforluigi	07500
 little_devil	00100
 alyncor12	03500
@@ -575,11 +578,11 @@ alyncor12	2
 lisforluigi	1
 little_devil	-1
 giddygiraffe	0
-gingersnap66	0
+gingersnap667	0
 zak_zakaryas	0
 mattu82 	0
 2:04:46 2:27:27
-gingersnap66	2
+gingersnap667	2
 lisforluigi	1
 alyncor12	-1
 giddygiraffe	0
@@ -588,11 +591,11 @@ mattu82 	0
 little_devil	0
 2:37:12 3:02:30
 rainbowstarl	1
-gingersnap66	1
+gingersnap667	1
 mattu82 	1
 zak_zakaryas	1
 alyncor12	1
-jacoyous2009	1
+jacoyus2009	1
 lisforluigi	0
 ohnobro33	0
 urbanlegend1	0
@@ -627,7 +630,7 @@ caisryn 	15569
 alyncor12	14040
 zak_zakaryas	11330
 shown_x8	11093
-kaylaaa_rose	10936
+kaylaaa_roses	10936
 lisforluigi	09716
 mattu82 	08525
 hipstersstol	04020
@@ -639,7 +642,7 @@ zak_zakaryas	11913
 alyncor12	11550
 breezy_boyy	06080
 cthuskyman	04770
-kaylaaa_rose	00000
+kaylaaa_roses	00000
 Trivia Murder Party 2
 2:41:19 3:01:25
 mattu82 	06825
@@ -651,36 +654,36 @@ carpuu  	06275
 lisforluigi	10375
 alyncor12	06400
 3:08:33 3:25:35
-gingersnap66	05100
-kaylaaa_rose	07100	w
-starlightem1	02500
+gingersnap667	05100
+kaylaaa_roses	07100	w
+starlightem18	02500
 breezy_boyy	02500
 mattu82 	01100
 alyncor12	04100
-speeddemonst	02600
+speeddemonstar	02600
 lisforluigi	05200
 Fakin' It All Night Long
 3:31:30 3:55:30
-gingersnap66	00200
+gingersnap667	00200
 zak_zakaryas	00375
-starlightem1	00850
-kaylaaa_rose	00450
+starlightem18	00850
+kaylaaa_roses	00450
 breezy_boyy	00750
-jaysterdalla	00625
+jaysterdallas	00625
 rns_aurelius	00200
 erinsunshine	00375
 3:58:35 4:24:46
-gingersnap66	00805
-jacoyous2009	00330
+gingersnap667	00805
+jacoyus2009	00330
 lisforluigi	00205
 erinsunshine	00600
-speeddemonst	00305
+speeddemonstar	00305
 chaotik_lord	00000
 breezy_boyy	00755
 jeffbabi	00100
 4:29:47 4:53:01
 lisforluigi	00980
-starlightem1	00605
+starlightem18	00605
 rozen_spark	00375
 breezy_boyy	00480
 kenbristolme	00600
@@ -695,7 +698,7 @@ giddygiraffe	04817
 lisforluigi	02976
 zak_zakaryas	02800
 shown_x8	03356
-speeddemonst	03117 
+speeddemonstar	03117 
 39:54 1:03:01
 zak_zakaryas	08563
 mattu82 	05725
@@ -706,18 +709,18 @@ connorcreid	04226
 1:05:13 1:22:29
 zak_zakaryas	08138
 rozen_spark	05701
-speeddemonst	02877
-jacoyous2009	02013
+speeddemonstar	02877
+jacoyus2009	02013
 mattu82 	05050
-xxostianmatt	04439
+xxostianmatthewxx	04439
 Fibbage 4
 1:34:21 1:56:51
 linkylove_	21555
-speeddemonst	13030
+speeddemonstar	13030
 mattyluvsmus	10565
 zak_zakaryas	10065
 lisforluigi	08580
-xxostianmatt	07055
+xxostianmatthewxx	07055
 shown_x8	06035
 mattu82 	05040
 2:00:48 2:22:41
@@ -725,8 +728,8 @@ mattu82 	15545
 takedownmgdr	13560
 lisforluigi	11040
 wrhiv72 	08575
-speeddemonst	08510
-brookiecooki	08065	
+speeddemonstar	08510
+brookiecookie1005	08065	
 mattyluvsmus	07510
 thysoutherng	03030
 Survive the Internet
@@ -740,12 +743,12 @@ thysoutherng	00460
 mattyluvsmus	00430
 giddygiraffe	00240
 2:54:14 3:14:53
-brookiecooki	01370
-xxostianmatt	01020
-speeddemonst	00780
+brookiecookie1005	01370
+xxostianmatthewxx	01020
+speeddemonstar	00780
 itsnear2	00660
 lisforluigi	00660
-jacoyous2009	00640
+jacoyus2009	00640
 giddygiraffe	00530
 yuuwantakno	00280
 https://www.youtube.com/watch?v=kyI1pHjWnLo 20250116	00:42:09
@@ -753,29 +756,29 @@ The Jackbox Survey Scramble - Hilo
 26:12 33:27
 dklovesvegas	29500
 mattu82 	28500
-gingersnap66	28250
+gingersnap667	28250
 kingsimba77	25250
-brookiecooki	19500
-crookedbanan	18500
+brookiecookie1005	19500
+crookedbananaface	18500
 lisforluigi	16500
 giddygiraffe	12500
 The Jackbox Survey Scramble - Speed
 33:35 39:26
 dklovesvegas	83000
-gingersnap66	67000
+gingersnap667	67000
 mattu82 	57000
-brookiecooki	54000
+brookiecookie1005	54000
 kingsimba77	45000
-crookedbanan	32000
+crookedbananaface	32000
 lisforluigi	21000
 giddygiraffe	06000
 The Jackbox Survey Scramble - Squares
 39:36 43:32
-gingersnap66	1
+gingersnap667	1
 lisforluigi	1
 giddygiraffe	1
-brookiecooki	1
-crookedbanan	1
+brookiecookie1005	1
+crookedbananaface	1
 dklovesvegas	0
 mattu82 	0
 kingsimba77	0
@@ -784,93 +787,93 @@ The Jackbox Survey Scramble - Bounce
 dklovesvegas	1
 mattu82 	1
 kingsimba77	1
-gingersnap66	1
+gingersnap667	1
 lisforluigi	0
 giddygiraffe	0
-crookedbanan	0
-brookiecooki	0
+crookedbananaface	0
+brookiecookie1005	0
 The Jackbox Survey Scramble - Dares
 50:08 1:00:59
 kingsimba77	02750
 mattu82 	02500
 giddygiraffe	02250
-gingersnap66	02000
-crookedbanan	02000
+gingersnap667	02000
+crookedbananaface	02000
 lisforluigi	01750
 dklovesvegas	01500
-brookiecooki	00250
+brookiecookie1005	00250
 The Jackbox Survey Scramble - Dash
 1:01:04 1:05:06
 mattu82 	1
 dklovesvegas	2
 kingsimba77	3
-gingersnap66	4
+gingersnap667	4
 lisforluigi	5
 giddygiraffe	6
-crookedbanan	7
-brookiecooki	8
+crookedbananaface	7
+brookiecookie1005	8
 The Jackbox Survey Scramble - Hilo
 1:12:21 1:19:38
 lisforluigi	38500
-jaysterdalla	33750
-gingersnap66	29500
-crookedbanan	26750
+jaysterdallas	33750
+gingersnap667	29500
+crookedbananaface	26750
 mattu82 	25500
-starlightem1	24750
-brookiecooki	14750
+starlightem18	24750
+brookiecookie1005	14750
 The Jackbox Survey Scramble - Speed
 1:19:47 1:26:03
-starlightem1	80000
-brookiecooki	73000
-crookedbanan	58000
+starlightem18	80000
+brookiecookie1005	73000
+crookedbananaface	58000
 mattu82 	53000
-jaysterdalla	41000
-gingersnap66	37000
+jaysterdallas	41000
+gingersnap667	37000
 lisforluigi	28000
 The Jackbox Survey Scramble - Squares
 1:26:13 1:30:18
-starlightem1	1
+starlightem18	1
 mattu82 	1
-gingersnap66	1
+gingersnap667	1
 lisforluigi	0
-jaysterdalla	0
-crookedbanan	0
-brookiecooki	0
+jaysterdallas	0
+crookedbananaface	0
+brookiecookie1005	0
 The Jackbox Survey Scramble - Bounce
 1:30:26 1:40:13
-starlightem1	1
+starlightem18	1
 mattu82 	0
 lisforluigi	0
-gingersnap66	0
-jaysterdalla	0
-crookedbanan	0
-brookiecooki	0
+gingersnap667	0
+jaysterdallas	0
+crookedbananaface	0
+brookiecookie1005	0
 The Jackbox Survey Scramble - Dares
 1:40:22 1:48:50
 mattu82 	06750
-starlightem1	06500
-crookedbanan	06500
+starlightem18	06500
+crookedbananaface	06500
 lisforluigi	05500
-jaysterdalla	05000
-brookiecooki	02250
-gingersnap66	01000
+jaysterdallas	05000
+brookiecookie1005	02250
+gingersnap667	01000
 The Jackbox Survey Scramble - Dash
 1:48:55 1:53:11
 lisforluigi	1
-crookedbanan	1
-gingersnap66	3
-starlightem1	4
+crookedbananaface	1
+gingersnap667	3
+starlightem18	4
 mattu82 	5
-jaysterdalla	6
-brookiecooki	7
+jaysterdallas	6
+brookiecookie1005	7
 Roomerang
 2:05:06 2:35:09
 lisforluigi	16
-starlightem1	15
+starlightem18	15
 mattu82 	13
-jaysterdalla	11
-brookiecooki	6
-crookedbanan	6
+jaysterdallas	11
+brookiecookie1005	6
+crookedbananaface	6
 https://www.twitch.tv/videos/2355551967 20250117	01:33:00
 Trivia Murder Party 2
 13:34 33:57
@@ -878,10 +881,10 @@ giddygiraffe	05381
 thana_nyssa	04905
 lisforluigi	11575
 mattu82 	05625
-gingersnap66	04300
+gingersnap667	04300
 zak_zakaryas	06900	w
-crookedbanan	05446
-jaysterdalla	05193
+crookedbananaface	05446
+jaysterdallas	05193
 39:36 56:20
 sir_unitingc	02500
 lisforluigi	07000
@@ -889,10 +892,10 @@ mattu82 	04000
 thetinyfox_1	05500
 abyssupdate	03500
 chaotik_lord	04000	w
-jaysterdalla	05000
+jaysterdallas	05000
 botch_slice	05500
 59:48 1:21:09
-kaylaaa_rose	07300
+kaylaaa_roses	07300
 lisforluigi	10025
 botch_slice 	07425	w
 islandladdy	06450
@@ -904,14 +907,14 @@ Survive the Internet
 1:32:14 1:52:20
 mattu82 	01480
 botch_slice	01130
-kaylaaa_rose	00740
-jaysterdalla	00620
+kaylaaa_roses	00740
+jaysterdallas	00620
 giddygiraffe	00570
 sir_unitingc	00540
 lisforluigi	00480
 abyssupdate	00200
 1:57:03 2:17:17
-kaylaaa_rose	01300
+kaylaaa_roses	01300
 giddygiraffe	01170
 lisforluigi	01110
 star_lol1	00700
@@ -921,7 +924,7 @@ mattu82 	00320
 wrhiv72 	00280
 2:29:13 2:49:20
 xothelostsou	01140
-kaylaaa_rose	00460
+kaylaaa_roses	00460
 giddygiraffe	00440
 caityisweird	00420
 sir_unitingc	00380
@@ -932,48 +935,48 @@ https://www.youtube.com/watch?v=e-DwXRId688	20250118	01:49:21
 The Jackbox Survey Scramble - Hilo
 14:11 22:22
 lquick77	34250
-brookiecooki	32000
+brookiecookie1005	32000
 rlcarroll	25500
 pinkpop5	22250
-speeddemonst	21000
+speeddemonstar	21000
 thana_nyssa	10750
 lisforluigi	09125
 mattu82 	09000
-starlightem1	06750
+starlightem18	06750
 giddygiraffe	03000
 The Jackbox Survey Scramble - Speed
 22:32 29:07
 lquick77	126000
-starlightem1	86000
+starlightem18	86000
 rlcarroll	57000
 mattu82 	53000
-brookiecooki	42000
+brookiecookie1005	42000
 giddygiraffe	38000
 pinkpop5	36000
-speeddemonst	30000
+speeddemonstar	30000
 lisforluigi	23000
 thana_nyssa	22000
 The Jackbox Survey Scramble - Squares
 29:15 31:29
 lquick77	1
-starlightem1	1
+starlightem18	1
 rlcarroll	1
 thana_nyssa	1
-speeddemonst	1
+speeddemonstar	1
 pinkpop5	0
 mattu82 	0
 lisforluigi	0
 giddygiraffe	0
-brookiecooki	0
+brookiecookie1005	0
 The Jackbox Survey Scramble - Bounce
 31:39 40:46
 lquick77	1
-speeddemonst	1
-brookiecooki	1
+speeddemonstar	1
+brookiecookie1005	1
 giddygiraffe	1
 lisforluigi	1
 thana_nyssa	0
-starlightem1	0
+starlightem18	0
 rlcarroll	0
 pinkpop5	0
 mattu82 	0
@@ -982,83 +985,83 @@ The Jackbox Survey Scramble - Dares
 lisforluigi	04500
 lquick77	03750
 giddygiraffe	03250
-starlightem1	03000
+starlightem18	03000
 thana_nyssa	02750
 rlcarroll	02750
 pinkpop5	02500
 mattu82 	01500
-speeddemonst	01000
-brookiecooki	00000
+speeddemonstar	01000
+brookiecookie1005	00000
 The Jackbox Survey Scramble - Dash
 54:31 1:04:14
-starlightem1	1
-speeddemonst	2
+starlightem18	1
+speeddemonstar	2
 giddygiraffe	3
 thana_nyssa	4
 pinkpop5	5
 lquick77	6
 mattu82 	7
 lisforluigi	8
-brookiecooki	9
+brookiecookie1005	9
 rlcarroll	11
 The Jackbox Survey Scramble - Hilo
 1:10:46 1:18:10
-speeddemonst	34500
+speeddemonstar	34500
 lisforluigi	32250
 thana_nyssa	29000
 mattu82 	26000
-brookiecooki	25500
-starlightem1	12500
-th3gr3atg00b	11000
+brookiecookie1005	25500
+starlightem18	12500
+th3gr3atg00b3r	11000
 kiitty_arii	09250
 The Jackbox Survey Scramble - Speed
 1:18:20 1:24:44
-starlightem1	116000
+starlightem18	116000
 mattu82 	69000
-speeddemonst	48000
-th3gr3atg00b	39000
+speeddemonstar	48000
+th3gr3atg00b3r	39000
 thana_nyssa	33000
 kiitty_arii	29000
 lisforluigi	21000
-brookiecooki	20000
+brookiecookie1005	20000
 The Jackbox Survey Scramble - Squares
 1:24:52 1:27:26
-starlightem1	1
+starlightem18	1
 thana_nyssa	1
 kiitty_arii	1
-speeddemonst	0
-th3gr3atg00b	0
+speeddemonstar	0
+th3gr3atg00b3r	0
 mattu82 	0
 lisforluigi	0
-brookiecooki	0
+brookiecookie1005	0
 The Jackbox Survey Scramble - Bounce
 1:27:36 1:33:06
 mattu82 	1
 kiitty_arii	1
-speeddemonst	1
+speeddemonstar	1
 lisforluigi	1
-brookiecooki	1
-th3gr3atg00b	1
-starlightem1	0
+brookiecookie1005	1
+th3gr3atg00b3r	1
+starlightem18	0
 thana_nyssa	0
 The Jackbox Survey Scramble - Dares
 1:33:15 1:42:47
-starlightem1	05000
-th3gr3atg00b	04250
+starlightem18	05000
+th3gr3atg00b3r	04250
 mattu82 	03750
-brookiecooki	03750
+brookiecookie1005	03750
 lisforluigi	03250
-speeddemonst	02750
+speeddemonstar	02750
 kiitty_arii	01750
 thana_nyssa	01750
 The Jackbox Survey Scramble - Dash
 1:42:52 1:52:09
 mattu82 	1
-th3gr3atg00b	1
-speeddemonst	3
-starlightem1	4
+th3gr3atg00b3r	1
+speeddemonstar	3
+starlightem18	4
 kiitty_arii	5
-brookiecooki	6
+brookiecookie1005	6
 thana_nyssa	7
 lisforluigi	8
 The Poll Mine
@@ -1067,58 +1070,58 @@ tw3rk1ng_4_m	1
 kiitty_arii	1
 mattu82 	1
 sir_unitingc	1
-brookiecooki	0
+brookiecookie1005	0
 xothelostsou	0
-starlightem1	0
+starlightem18	0
 lisforluigi	0
 2:31:24 2:58:51
 lisforluigi	1
 mattu82 	1
-brookiecooki	1
+brookiecookie1005	1
 kiitty_arii	0
 giddygiraffe	0
-starlightem1	0
+starlightem18	0
 https://www.youtube.com/watch?v=WlyYkxOYANw	20250119	00:30:41
 Trivia Murder Party 2
 10:53 24:58
 giddygiraffe	4000
 lisforluigi	4100	w
-gingersnap66	4100
-th3gr3atg00b	3500
-jaysterdalla	5100
+gingersnap667	4100
+th3gr3atg00b3r	3500
+jaysterdallas	5100
 shown_x8	2600
 mattu82 	2100
 the_pilz	0500
 28:20 47:20
 zak_zakaryas	7480	w
 mattu82 	6500
-gingersnap66	5720
+gingersnap667	5720
 shown_x8	3725
-xxostianmatt	7300
+xxostianmatthewxx	7300
 dynamite227	2650
 lisforluigi	8600
-starlightem1	2450
+starlightem18	2450
 51:09 1:06:31
 mattu82 	5000
 cosmicjonny_	3000
-brookiecooki	3675
+brookiecookie1005	3675
 dynamite227	3875
-xxostianmatt	3000
+xxostianmatthewxx	3000
 dwaybles	3825
 lisforluigi	5000
 linkylove_	7500	w
 Joke Boat
 1:14:01 1:36:16
 hipstersstol	4680
-jaysterdalla	3700
+jaysterdallas	3700
 cosmicjonny_	3290
 cherrybob_om	2450
 mattu82 	2420
 zak_zakaryas	2320
-starlightem1	2250
+starlightem18	2250
 fn8up79 	1840
 1:40:24 2:03:31
-brookiecooki	4435
+brookiecookie1005	4435
 dwaybles	3900
 shown_x8	2775
 lisforluigi	2730
@@ -1127,13 +1130,13 @@ wrhiv72 	2030
 mattu82 	1950
 zak_zakaryas	1780
 2:06:47 2:29:13
-jaysterdalla	5210
-speeddemonst	3970
+jaysterdallas	5210
+speeddemonstar	3970
 lisforluigi	2810
 zak_zakaryas	2800
 cherrybob_om	2430
-gingersnap66	2300
-brookiecooki	1930
+gingersnap667	2300
+brookiecookie1005	1930
 shown_x8	0200
 https://www.youtube.com/watch?v=8MEPrWVAwQQ 20250121	01:37:48
 You Don't Know Jack: Full Stream
@@ -1141,20 +1144,20 @@ You Don't Know Jack: Full Stream
 dwaybles	18140
 mattu82 	10960
 giddygiraffe	07720
-oatymilkgala	07360
-gingersnap66	02200
+oatymilkgalaxy	07360
+gingersnap667	02200
 thana_nyssa	-00100
 lisforluigi	-00500
 thesingulari	-12300
 44:48 1:01:11
 zak_zakaryas	31900
 lisforluigi	16500
-speeddemonst	09200
+speeddemonstar	09200
 mattu82 	05800
 giddygiraffe	00200
 Fibbage 3
 1:14:20 1:36:04
-oatymilkgala	14030
+oatymilkgalaxy	14030
 zak_zakaryas	11290
 mattu82 	10015
 dwaybles	09275
@@ -1164,26 +1167,25 @@ kingpharsai9	08510
 lisforluigi	03545
 1:40:04 2:02:07
 zak_zakaryas	10825
-speeddemonst	10815
+speeddemonstar	10815
 thana_nyssa	09355
 wrhiv72 	09060
 mattu82 	07300
-jacoyous2009	04285
-starlightem1	03045
+jacoyus2009	04285
+starlightem18	03045
 pandaanoms	02550
 2:06:26 2:27:54
 zak_zakaryas	10020
 bo_gu   	08520
 lisforluigi	06265
 botch_slice	06265
-speeddemonst	06000
+speeddemonstar	06000
 lord_luigi24	05755
 mr_lodgu	04505
 vr_old_boy	04275
 https://www.twitch.tv/videos/2360237687 20250122	01:04:00
 Trivia Murder Party 2
 11:57 26:03
-audience	8000	w
 giddygiraffe	2500
 mattu82 	2150
 lisforluigi	4150
@@ -1204,7 +1206,7 @@ abyssupdate	0
 lisforluigi	0
 joggleboi123	0
 mattu82 	0
-jaysterdalla	0
+jaysterdallas	0
 retroception	0
 thana_nyssa	0
 zak_zakaryas	0
@@ -1216,14 +1218,14 @@ retroception	6400
 zak_zakaryas	11200	w
 thana_nyssa	5600
 lisforluigi	10450
-jaysterdalla	5375
+jaysterdallas	5375
 mattu82 	6925
 rns_aurelius	9675
 Tee K.O. 2
 33:01 53:41
 lisforluigi	1
 mattu82 	0
-jaysterdalla	0
+jaysterdallas	0
 rozen_spark	0
 wrhiv72 	0
 retroception	0
@@ -1248,8 +1250,8 @@ kingpharsai9	02525
 chaotik_lord	01585
 2:04:50 2:26:47
 connorcreid	17610
-starlightem1	16590
-jacoyous2009	11525
+starlightem18	16590
+jacoyus2009	11525
 alyncor12	08060
 missmac87	07875
 lisforluigi	07085
@@ -1259,7 +1261,7 @@ https://www.youtube.com/watch?v=FT3g7Y7AZVk 20250124	01:01:10
 The Wheel of Enormous Proportions
 11:36 34:47
 giddygiraffe	13700
-brookiecooki	7484
+brookiecookie1005	7484
 zak_zakaryas	40863	w
 mattu82 	18928
 shown_x8	8284
@@ -1273,21 +1275,21 @@ shown_x8	16707
 lisforluigi	22307
 alyncor12	24400
 endlessnonse	25966
-brookiecooki	3900
+brookiecookie1005	3900
 manicpixiedr	14832
 Quiplash 3
 1:12:13 1:31:40
 mattu82 	11200
 cosmicjonny_	9530
-brookiecooki	7260
+brookiecookie1005	7260
 alyncor12	5600
 wrhiv72 	4320
 dcpesses	4230
 lisforluigi	2600
 1:35:38 1:54:11
-brookiecooki	9200
+brookiecookie1005	9200
 mattu82 	8050
-speeddemonst	7800
+speeddemonstar	7800
 wrhiv72 	7150
 giddygiraffe	5270
 lisforluigi	3910
@@ -1299,29 +1301,29 @@ lquick77	38250
 lisforluigi	35000
 mattu82 	26333
 giddygiraffe	25333
-speeddemonst	21333
-crookedbanan	21250
+speeddemonstar	21333
+crookedbananaface	21250
 26:37 34:01
 lquick77	41250
 mattu82 	30500
 kevex3000	26875
 uwdijksm	20750
 lisforluigi	18125
-gingersnap66	16500
-crookedbanan	15000
+gingersnap667	16500
+crookedbananaface	15000
 giddygiraffe	10750
-speeddemonst	10500
-starlightem1	9500
+speeddemonstar	10500
+starlightem18	9500
 The Jackbox Survey Scramble - Speed
 40:24 52:06
 lquick77	423000
 mattu82 	219000
 kevex3000	155000
-gingersnap66	151000
-crookedbanan	131000
-speeddemonst	113000
+gingersnap667	151000
+crookedbananaface	131000
+speeddemonstar	113000
 lisforluigi	96000
-starlightem1	82000
+starlightem18	82000
 uwdijksm	53000
 giddygiraffe	18000
 The Jackbox Survey Scramble - Squares
@@ -1330,10 +1332,10 @@ lquick77	1
 sunisadeadly	1
 uwdijksm	1
 giddygiraffe	1
-speeddemonst	0
+speeddemonstar	0
 mattu82 	0
 lisforluigi	0
-gingersnap66	0
+gingersnap667	0
 The Jackbox Survey Scramble - Dares
 1:01:56 1:13:36
 lisforluigi	4500
@@ -1342,9 +1344,9 @@ uwdijksm	3500
 worldofmarz	2500
 giddygiraffe	2000
 sunisadeadly	1750
-speeddemonst	1750
+speeddemonstar	1750
 mattu82 	1500
-gingersnap66	0
+gingersnap667	0
 The Jackbox Survey Scramble - Dash
 1:16:45 1:20:03
 mattu82 	1
@@ -1365,7 +1367,7 @@ xodarksoulxo	140000
 The Jackbox Survey Scramble - Hilo
 1:36:49 1:44:13
 lquick77	43750
-starlightem1	33000
+starlightem18	33000
 winthorpeiii	20000
 giddygiraffe	19000
 lisforluigi	18750
@@ -1375,13 +1377,13 @@ worldofmarz	7250
 Dictionarium
 1:53:07 2:00:51
 winthorpeiii	1620
-starlightem1	1315
+starlightem18	1315
 lisforluigi	1010
 giddygiraffe	600
 mattu82 	0
 2:02:20 2:09:59
 lisforluigi	1310
-starlightem1	1010
+starlightem18	1010
 giddygiraffe	805
 mattu82 	800
 winthorpeiii	610
@@ -1391,13 +1393,13 @@ dwaybles	1605
 winthorpeiii	1605
 giddygiraffe	1600
 mattu82 	1300
-starlightem1	570
+starlightem18	570
 https://www.youtube.com/watch?v=BPIIX--MwjE	20250126	00:33:02
 Trivia Murder Party 2
 13:13 29:57
 giddygiraffe	3075
-brookiecooki	5625
-gingersnap66	8000
+brookiecookie1005	5625
+gingersnap667	8000
 lisforluigi	6725
 pandaanoms	4800
 zak_zakaryas	7625	w
@@ -1408,7 +1410,7 @@ mattu82 	6600
 kjc_89_kjc	6600
 lordrandolf3	5700
 lisforluigi	7200
-gingersnap66	5800	w
+gingersnap667	5800	w
 arandomfurry	4200
 alyncor12	6100
 giddygiraffe	4000
@@ -1417,10 +1419,10 @@ hotmessjess	5950
 mattu82 	7075
 artful_turke	5400
 tw3rk1ng_4_m	2425
-xxostianmatt	7800	w
+xxostianmatthewxx	7800	w
 lisforluigi	6950
 xenjonrow	6425
-brookiecooki	1300
+brookiecookie1005	1300
 The Wheel of Enormous Proportions
 1:29:40 1:45:38
 artful_turke	4618
@@ -1437,7 +1439,7 @@ artful_turke	23189	w
 hotmessjess	6989
 theyluvaimee	15440
 bustatheanar	7000
-xxostianmatt	6434
+xxostianmatthewxx	6434
 azrael_the_a	5703
 lisforluigi	3903
 https://www.youtube.com/watch?v=4z04d9I_IQg	20250128	01:28:16
@@ -1446,7 +1448,7 @@ Blather 'Round
 zak_zakaryas	8138
 lisforluigi	4000
 giddygiraffe	5251
-kaylaaa_rose	4001
+kaylaaa_roses	4001
 linkylove_	7414
 sandtyger	5825
 30:33	45:33
@@ -1454,11 +1456,11 @@ lisforluigi	4438
 wrhiv72 	4514
 zak_zakaryas	7739
 linkylove_	8975
-kaylaaa_rose	4538
+kaylaaa_roses	4538
 lquick77	2939
 48:54	1:04:30
 theyluvaimee	4738
-kaylaaa_rose	1800
+kaylaaa_roses	1800
 zak_zakaryas	5564
 rozen_spark	7300
 linkylove_	7325
@@ -1466,13 +1468,13 @@ lquick77	1650
 Role Models
 1:15:09	1:38:16
 wrhiv72 	21
-starlightem1	27
+starlightem18	27
 rysso2  	16
 lisforluigi	24
 theyluvaimee	18
 ninja_god767	21
 1:44:35	2:06:28
-starlightem1	13
+starlightem18	13
 bo_gu   	26
 wrhiv72 	22
 theyluvaimee	16
@@ -1484,7 +1486,7 @@ cookiejarpot	23
 lisforluigi	21
 wrhiv72 	19
 ninja_god767	22
-starlightem1	19
+starlightem18	19
 https://www.youtube.com/watch?v=lWe0bKvoWTU	20250129	01:46:46
 You Don't Know Jack: Full Stream
 12:30 30:31
@@ -1506,7 +1508,7 @@ giddygiraffe	1580
 wrhiv72 	-1960
 Fibbage 4
 1:06:12 1:31:11
-starlightem1	15050
+starlightem18	15050
 zak_zakaryas	14535
 fn8up79 	9040
 chaotik_lord	8520
@@ -1525,7 +1527,7 @@ connor_indig	3030
 wrhiv72 	3025
 The Jackbox Survey Scramble - Hilo
 2:12:36 2:20:37
-starlightem1	43000
+starlightem18	43000
 wrhiv72 	29750
 mattu82 	25500
 connor_indig	20750
@@ -1537,7 +1539,7 @@ brinasty90	3500
 The Jackbox Survey Scramble - Speed
 2:20:47 2:29:48
 connor_indig	107000
-starlightem1	107000
+starlightem18	107000
 mattu82 	70000
 wrhiv72 	68000
 buzzfb  	65000
@@ -1551,7 +1553,7 @@ dongsnot	1
 lisforluigi	1
 buzzfb  	1
 kjc_89_kjc	1
-starlightem1	0
+starlightem18	0
 connor_indig	0
 wrhiv72 	0
 mattu82 	0
@@ -1561,7 +1563,7 @@ The Jackbox Survey Scramble - Bounce
 mattu82 	1
 lisforluigi	1
 kjc_89_kjc	1
-starlightem1	1
+starlightem18	1
 dongsnot	0
 connor_indig	0
 buzzfb  	0
@@ -1576,13 +1578,13 @@ kjc_89_kjc	2000
 wrhiv72 	2000
 brinasty90	2000
 lisforluigi	1250
-starlightem1	0
+starlightem18	0
 dongsnot	0
 The Jackbox Survey Scramble - Dash
 2:56:10 3:03:14
 lisforluigi	1
 wrhiv72 	2
-starlightem1	3
+starlightem18	3
 connor_indig	4
 buzzfb  	5
 brinasty90	6
@@ -1590,4 +1592,3 @@ kjc_89_kjc	7
 dongsnot	8
 mattu82 	10
 --END--
-
