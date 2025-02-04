@@ -360,7 +360,7 @@ lisforluigi	44250
 shown_x8	36000
 mattu82 	33550
 callumgray35	25400
-kingpharsai9	25250
+kingpharsa19	25250
 3:30:03 4:00:24
 captpan6	57150
 kaidraman	56800
@@ -404,7 +404,7 @@ giddygiraffe	16900
 itsnear2	39740
 th3gr3atg00b3r	37650
 mattu82 	25910
-molly_croche	25830
+molly_crochets	25830
 therealtatsu	22530
 foxy_pr1nc3	18300
 chaotik_lord	16230
@@ -426,7 +426,7 @@ binbag420	12300
 edthedimmwit	09800
 chaotik_lord	09260
 lisforluigi	04180
-molly_croche	02800
+molly_crochets	02800
 kizzymcflizz	-05100
 https://www.youtube.com/watch?v=mqk3139SSMQ 20250109	22:30:17
 Trivia Murder Party 2
@@ -518,7 +518,7 @@ synthwave127	14539
 mattu82 	22926	w
 swifitiefan	16338
 lisforluigi	16473
-molly_croche	19359
+molly_crochets	19359
 synthwave127	22390
 starri_dayze	15932
 thetinyfox_1	12544
@@ -531,7 +531,7 @@ julzjustjulz	10560
 gingersnap667	07110
 chaotik_lord	07035
 lisforluigi	05580
-molly_croche	05050
+molly_crochets	05050
 starri_dayze	03025
 synthwave127	02565
 caisryn 	01055
@@ -1163,7 +1163,7 @@ mattu82 	10015
 dwaybles	09275
 rozen_spark	09270
 itsnear2	08550
-kingpharsai9	08510
+kingpharsa19	08510
 lisforluigi	03545
 1:40:04 2:02:07
 zak_zakaryas	10825
@@ -1246,7 +1246,7 @@ mattu82 	13580
 missmac87	10125
 wrhiv72 	09595
 xenjonrow	03060
-kingpharsai9	02525
+kingpharsa19	02525
 chaotik_lord	01585
 2:04:50 2:26:47
 connorcreid	17610
@@ -1740,4 +1740,50 @@ allegoricalparrot	6300
 tori_and_gem	5830
 mattu82 	5680
 lisforluigi	4000
+https://www.youtube.com/watch?v=OnV01I6yOiM	20250204	00:46:13
+You Don't Know Jack: Full Stream
+13:18 29:39
+zak_zakaryas	34400
+jamballam	25900
+mattu82 	14400
+oatymilkgalaxy	14300
+lisforluigi	6900
+giddygiraffe	6200
+localcryptid	4400
+rozen_spark	-2600
+39:43 55:57
+zak_zakaryas	30620
+mattu82 	9640
+rozen_spark	5700
+lisforluigi	3180
+wrhiv72 	-580
+t00nsi  	-9500
+kingpharsa19	-13340
+Dictionarium
+1:10:50 1:21:22
+oatymilkgalaxy	2735
+mattu82 	1910
+lisforluigi	1385
+theyluvaimee	1045
+molly_crochets	985
+giddygiraffe	565
+wrhiv72 	530
+kingpharsa19	0
+1:30:10 1:41:05
+giddygiraffe	2570
+oatymilkgalaxy	2190
+mattu82 	1635
+wrhiv72 	1310
+theyluvaimee	665
+molly_crochets	510
+lisforluigi	170
+1:44:14 1:55:03
+oatymilkgalaxy	2270
+doublezero88	1355
+mattu82 	1270
+wrhiv72 	1035
+giddygiraffe	1010
+theyluvaimee	945
+molly_crochets	720
+lisforluigi	500
 --END--
