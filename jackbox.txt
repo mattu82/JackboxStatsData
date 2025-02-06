@@ -42,7 +42,7 @@ tsumil3101	00000
 hacken_740	00375
 jeffbabi	00475
 trisdoomed_	00000
-kjc_89_kjc	00100
+kjc_snakey	00100
 klezling	00475
 worldofmarz	00825
 2:39:36 3:00:04
@@ -1255,7 +1255,7 @@ jacoyus2009	11525
 alyncor12	08060
 missmac87	07875
 lisforluigi	07085
-kjc_89_kjc	06570
+kjc_snakey	06570
 mattu82 	03070
 https://www.youtube.com/watch?v=FT3g7Y7AZVk 20250124	01:01:10
 The Wheel of Enormous Proportions
@@ -1407,7 +1407,7 @@ rns_aurelius	2775
 captpan6	3925
 36:43 55:29
 mattu82 	6600
-kjc_89_kjc	6600
+kjc_snakey	6600
 lordrandolf3	5700
 lisforluigi	7200
 gingersnap667	5800	w
@@ -1534,7 +1534,7 @@ connor_indig	20750
 dongsnot	20000
 lisforluigi	18250
 buzzfb  	17250
-kjc_89_kjc	17000
+kjc_snakey	17000
 brinasty90	3500
 The Jackbox Survey Scramble - Speed
 2:20:47 2:29:48
@@ -1543,7 +1543,7 @@ starlightem18	107000
 mattu82 	70000
 wrhiv72 	68000
 buzzfb  	65000
-kjc_89_kjc	57000
+kjc_snakey	57000
 lisforluigi	48000
 brinasty90	17000
 dongsnot	0
@@ -1552,7 +1552,7 @@ The Jackbox Survey Scramble - Squares
 dongsnot	1
 lisforluigi	1
 buzzfb  	1
-kjc_89_kjc	1
+kjc_snakey	1
 starlightem18	0
 connor_indig	0
 wrhiv72 	0
@@ -1562,7 +1562,7 @@ The Jackbox Survey Scramble - Bounce
 2:38:30 2:44:04
 mattu82 	1
 lisforluigi	1
-kjc_89_kjc	1
+kjc_snakey	1
 starlightem18	1
 dongsnot	0
 connor_indig	0
@@ -1574,7 +1574,7 @@ The Jackbox Survey Scramble - Dares
 buzzfb  	4250
 mattu82 	3000
 connor_indig	2250
-kjc_89_kjc	2000
+kjc_snakey	2000
 wrhiv72 	2000
 brinasty90	2000
 lisforluigi	1250
@@ -1588,7 +1588,7 @@ starlightem18	3
 connor_indig	4
 buzzfb  	5
 brinasty90	6
-kjc_89_kjc	7
+kjc_snakey	7
 dongsnot	8
 mattu82 	10
 https://www.youtube.com/watch?v=ei_DaHWI-Vo	20250130	00:51:10
@@ -1749,7 +1749,7 @@ mattu82 	14400
 oatymilkgalaxy	14300
 lisforluigi	6900
 giddygiraffe	6200
-localcryptid	4400
+local_cryptid	4400
 rozen_spark	-2600
 39:43 55:57
 zak_zakaryas	30620
@@ -1786,4 +1786,100 @@ giddygiraffe	1010
 theyluvaimee	945
 molly_crochets	720
 lisforluigi	500
+https://www.youtube.com/watch?v=SL8UfGkaqec	20250205	00:34:16
+The Wheel of Enormous Proportions
+17:49 40:14
+giddygiraffe	18741
+lisforluigi	5500
+local_cryptid	27956
+theyluvaimee	6917
+connorcreid	12478
+gmlmusic	5917
+mattu82 	22756	w
+44:43 1:07:40
+mattu82 	19228
+winthorpeiii	20826	w
+wrhiv72 	17276
+local_cryptid	12919
+theyluvaimee	2804
+lisforluigi	19339
+bo_gu   	22630
+gmlmusic	13524
+1:15:38 1:36:49
+pandaanoms	15687
+lisforluigi	14782
+alyncor12	14036
+mattu82 	18368
+winthorpeiii	1227
+thedigiworld	20307	w
+crookedbananaface	7004
+kjc_snakey	15357
+Job Job
+1:46:58 2:11:14
+allegoricalparrot	53950
+linkorb 	53750
+mattu82 	43200
+jacoyus2009	42100
+lisforluigi	35750
+winthorpeiii	35450
+wrhiv72 	27850
+2:16:35 2:45:37
+allegoricalparrot	53000
+linkorb 	48100
+xodarksoulxo	47800
+mattu82 	44850
+gamerdee4dawin	44450
+lisforluigi	41050
+wrhiv72 	35650
+georgeedy_	32950
+winthorpeiii	31950
+Trivia Murder Party 2
+2:49:36 3:06:37
+dwaybles	5225
+chaotik_lord	5050	w
+winthorpeiii	3225
+gamerdee4dawin	3625
+lisforluigi	3450
+mattu82 	2850
+georgeedy_	50
+andreeacrist	0
+https://www.youtube.com/watch?v=7TkjYMzeECE	20250206	00:43:41
+Blather 'Round
+10:40 31:25
+zak_zakaryas	7518
+mattu82 	5200
+giddygiraffe	4867
+lisforluigi	4376
+jaysterdallas	2438
+shown_x8	0
+37:44 55:35
+mattu82 	7175
+zak_zakaryas	7050
+rozen_spark	5751
+wrhiv72 	4534
+lisforluigi	4139
+shown_x8	3506
+1:00:46 1:18:56
+rozen_spark	8325
+zak_zakaryas	7600
+mattu82 	5139
+lisforluigi	4763
+tori_and_gem	4018
+jaysterdallas	3426
+Fibbage 4
+1:26:53 1:50:58
+mattu82 	17545
+wrhiv72 	17070
+reubenareyou	16060
+lisforluigi	12530
+esssdeeee	11060
+jaysterdallas	4075
+bbigsisterge	3575
+tori_and_gem	3035
+1:58:55 2:18:48
+mattu82 	18055
+reubenareyou	13025
+lisforluigi	12065
+speeddemonstar	9065
+tori_and_gem	2535
 --END--
